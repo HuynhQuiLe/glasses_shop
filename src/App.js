@@ -1,7 +1,8 @@
 import "./App.css";
+import GlassesShop from "./components/GlassesShop";
 
 function App() {
-  return <p>Empty React!</p>;
+  return <GlassesShop />;
 }
 
 export default App;
